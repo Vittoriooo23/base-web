@@ -22,8 +22,8 @@ NOTE: YOU MUST HAVE NODE.JS INSTALLED
 DIRECTIONS:
 1. "npm install" while in working directory in terminal
 2. "npm run dev" in terminal to update webpage
-DO NOT INCLUDE QUOTATION MARKS
+DO NOT INCLUDE QUOTATION MARKS.
 
 
-defaults to watch, automatically updating with every save
-ctrl + c to stop watch, after its been initiated, in terminal
+defaults to watch, automatically updating with every save.
+ctrl + c to stop watch, after its been initiated, in terminal.
