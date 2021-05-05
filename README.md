@@ -16,6 +16,7 @@ postcss-simple-vars
 postcss-nested
 autoprefixer
 postcss-import
+postcss-mixins
 
 
 NOTE: YOU MUST HAVE NODE.JS INSTALLED
