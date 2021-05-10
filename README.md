@@ -33,3 +33,6 @@ i.e 192.168.1.500:8080
 
 automatically updates with every save.
 ctrl + c to stop watch, after its been initiated, in terminal.
+
+
+If using VS Code, your css may show errors when there really are none. To fix, you must go to setting (ctrl + ,), Text Editor, Files, Associations, Add Item. The item id is *.css. The Value is scss.
